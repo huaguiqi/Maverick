@@ -39,3 +39,4 @@ jobs:
         PUBLISH_DIR: ./test_dist
       with:
         emptyCommits: false
+
